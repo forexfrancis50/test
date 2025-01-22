@@ -89,9 +89,10 @@ Use the code below to get started with the model.
 
 ## Training Details
 
+
 ### Training Data
 
-<!-- This should link to a Dataset Card, perhaps with a short stub of information on what the training data is all about as well as documentation related to data pre-processing or additional filtering. -->
+<!-- Hollywoodfrancis/francis_trained. -->
 
 [More Information Needed]
 
