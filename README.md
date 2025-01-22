@@ -2,6 +2,7 @@
 license: llama3.3
 datasets:
 - HuggingFaceTB/finemath
+- hollywoodfrancis/francis_trained
 language:
 - en
 - pt
