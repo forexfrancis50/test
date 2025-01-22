@@ -31,13 +31,13 @@ This modelcard aims to be a base template for new models. It has been generated 
 
 
 
-- **Developed by:** [More Information Needed]
-- **Funded by [optional]:** [More Information Needed]
+- **Developed by:** [Francisco Lichucha Junior]
+- **Funded by [Francisco Lichucha Junior]:** [More Information Needed]
 - **Shared by [optional]:** [More Information Needed]
 - **Model type:** [More Information Needed]
 - **Language(s) (NLP):** [More Information Needed]
 - **License:** [More Information Needed]
-- **Finetuned from model [optional]:** [More Information Needed]
+- **Finetuned from model [Ollama]:** [More Information Needed]
 
 ### Model Sources [optional]
 
@@ -49,7 +49,7 @@ This modelcard aims to be a base template for new models. It has been generated 
 
 ## Uses
 
-<!-- Address questions around how the model is intended to be used, including the foreseeable users of the model and those affected by the model. -->
+<!-- Financial modeling -->
 
 ### Direct Use
 
