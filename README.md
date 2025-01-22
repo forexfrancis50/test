@@ -15,7 +15,7 @@ library_name: adapter-transformers
 tags:
 - finance
 - code
-pipeline_tag: text-generation
+pipeline_tag: tabular-regression
 ---
 # Model Card for Model ID
 
